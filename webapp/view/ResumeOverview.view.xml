@@ -21,11 +21,11 @@
                     </m:FlexBox>
                 </snappedHeading>
                 <expandedContent>
-					<m:Text text="Senior SAP BTP Full Stack Developer and Architect"/>
+					<m:Text text="Lead Senior Software Engineer"/>
 				</expandedContent>
 
 				<snappedContent>
-					<m:Text text="Senior SAP BTP Full Stack Developer and Architect"/>
+					<m:Text text="Lead Senior Software Engineer"/>
 				</snappedContent>
 
                 <actions>
@@ -63,7 +63,7 @@
 			<subSections>
 				<ObjectPageSubSection id="goalsSS1" titleUppercase="false">
 					<blocks>
-                        <m:Text text="I am a Senior SAP BTP Full Stack Developer and Architect with 10+ years of experience in SAP ABAP, SAP UI5, SAP Fiori, SAP Cloud Platform, SAP Cloud Application Programming Model, SAP HANA, SAP BTP, SAP Cloud Integration, SAP Cloud Workflow, SAP Cloud Analytics, SAP Cloud Portal, SAP Cloud Identity, SAP Cloud Security, SAP Cloud Build, SAP Cloud Deploy, SAP Cloud Transport Management, SAP Cloud Application Lifecycle Management, SAP Cloud Monitoring, SAP Cloud Logging, SAP Cloud Alerting, SAP Cloud Service Level Agreement, SAP Cloud Service Level Objective, SAP Cloud Service Level Indicator, SAP Cloud Service Level Agreement Management, SAP Cloud Service Level Objective Management, SAP Cloud Service Level Indicator Management, SAP Cloud Service Level Agreement Monitoring, SAP Cloud Service Level Objective Monitoring, SAP Cloud Service Level Indicator Monitoring, SAP Cloud Service Level Agreement Alerting, SAP Cloud Service Level Objective Alerting, SAP Cloud Service Level Indicator Alerting"/>
+                        <m:Text text="{i18n>overviewText}" class="title"/>
 					</blocks>
 				</ObjectPageSubSection>
 			</subSections>
@@ -73,7 +73,26 @@
                 <subSections>
                     <ObjectPageSubSection id="goalsSS9" titleUppercase="false">
                         <blocks>
-                            <m:Text text="I am a Senior SAP BTP Full Stack Developer and Architect with 10+ years of experience in SAP ABAP, SAP UI5, SAP Fiori, SAP Cloud Platform, SAP Cloud Application Programming Model, SAP HANA, SAP BTP, SAP Cloud Integration, SAP Cloud Workflow, SAP Cloud Analytics, SAP Cloud Portal, SAP Cloud Identity, SAP Cloud Security, SAP Cloud Build, SAP Cloud Deploy, SAP Cloud Transport Management, SAP Cloud Application Lifecycle Management, SAP Cloud Monitoring, SAP Cloud Logging, SAP Cloud Alerting, SAP Cloud Service Level Agreement, SAP Cloud Service Level Objective, SAP Cloud Service Level Indicator, SAP Cloud Service Level Agreement Management, SAP Cloud Service Level Objective Management, SAP Cloud Service Level Indicator Management, SAP Cloud Service Level Agreement Monitoring, SAP Cloud Service Level Objective Monitoring, SAP Cloud Service Level Indicator Monitoring, SAP Cloud Service Level Agreement Alerting, SAP Cloud Service Level Objective Alerting, SAP Cloud Service Level Indicator Alerting"/>
+                            <m:List>
+                                <m:ObjectListItem
+                                title="M.Tech in Information Technology"
+                                type="Active"
+                                number="2012-2014"
+                                numberUnit="Graduated">
+                              
+                                <m:ObjectAttribute text="SRM UNIVERSITY" class="college" />
+                                <m:ObjectAttribute text="CHENNAI" class="college" />
+                            </m:ObjectListItem>
+                            <m:ObjectListItem
+                                title="B.Tech in Electronics and Communication Engineering"
+                                type="Active"
+                                number="2008-2012"
+                                numberUnit="Graduated">
+                              
+                                <m:ObjectAttribute text="Rajalakshmi Institute of Technology (Anna University)" class="college" />
+                                <m:ObjectAttribute text="CHENNAI" class="college" />
+                            </m:ObjectListItem>
+                        </m:List>
                         </blocks>
                     </ObjectPageSubSection>
                 </subSections>
@@ -83,8 +102,8 @@
                 <subSections>
                     <ObjectPageSubSection id="goalsSS2" titleUppercase="false">
                         <blocks>
-                            <m:Text text="I am a Senior SAP BTP Full Stack Developer and Architect with 10+ years of experience in SAP ABAP, SAP UI5, SAP Fiori, SAP Cloud Platform, SAP Cloud Application Programming Model, SAP HANA, SAP BTP, SAP Cloud Integration, SAP Cloud Workflow, SAP Cloud Analytics, SAP Cloud Portal, SAP Cloud Identity, SAP Cloud Security, SAP Cloud Build, SAP Cloud Deploy, SAP Cloud Transport Management, SAP Cloud Application Lifecycle Management, SAP Cloud Monitoring, SAP Cloud Logging, SAP Cloud Alerting, SAP Cloud Service Level Agreement, SAP Cloud Service Level Objective, SAP Cloud Service Level Indicator, SAP Cloud Service Level Agreement Management, SAP Cloud Service Level Objective Management, SAP Cloud Service Level Indicator Management, SAP Cloud Service Level Agreement Monitoring, SAP Cloud Service Level Objective Monitoring, SAP Cloud Service Level Indicator Monitoring, SAP Cloud Service Level Agreement Alerting, SAP Cloud Service Level Objective Alerting, SAP Cloud Service Level Indicator Alerting"/>
-                        </blocks>
+                            <m:Image src="https://sageitinc.com/sagefiles/2023/08/sap-business-technology-platform-logo.png" width="100%" /> 
+                                               </blocks>
                     </ObjectPageSubSection>
                 </subSections>
                 </ObjectPageSection>
@@ -92,7 +111,55 @@
                     <subSections>
                         <ObjectPageSubSection id="goalsSS3" titleUppercase="false">
                             <blocks>
-                                <m:Text text="I am a Senior SAP BTP Full Stack Developer and Architect with 10+ years of experience in SAP ABAP, SAP UI5, SAP Fiori, SAP Cloud Platform, SAP Cloud Application Programming Model, SAP HANA, SAP BTP, SAP Cloud Integration, SAP Cloud Workflow, SAP Cloud Analytics, SAP Cloud Portal, SAP Cloud Identity, SAP Cloud Security, SAP Cloud Build, SAP Cloud Deploy, SAP Cloud Transport Management, SAP Cloud Application Lifecycle Management, SAP Cloud Monitoring, SAP Cloud Logging, SAP Cloud Alerting, SAP Cloud Service Level Agreement, SAP Cloud Service Level Objective, SAP Cloud Service Level Indicator, SAP Cloud Service Level Agreement Management, SAP Cloud Service Level Objective Management, SAP Cloud Service Level Indicator Management, SAP Cloud Service Level Agreement Monitoring, SAP Cloud Service Level Objective Monitoring, SAP Cloud Service Level Indicator Monitoring, SAP Cloud Service Level Agreement Alerting, SAP Cloud Service Level Objective Alerting, SAP Cloud Service Level Indicator Alerting"/>
+                                <m:List>
+                                <m:ObjectListItem
+                                title="p36 GmbH, Germany"
+                                type="Inactive"
+                                number="June 2023 - Present"
+                                numberUnit="Deutschland">
+                                <m:ObjectAttribute text="Having deep expertise in backend and frontend technologies,"/>
+                                <m:ObjectAttribute text="I work here as a Lead Senior Software Engineer with the development of the  UDI platform"/>
+                                <m:ObjectAttribute text="I use varitey of Open Source Technologies everyday such as Java, NodeJS,UI5,Apache Olingo" />
+                                <m:ObjectAttribute text="Docker and Cloud Foundry for both frontend and backend developments"/> 
+                                <m:ObjectAttribute text="Also gained Expertise in Migration of Jersey applications to Spring Boot"/>
+                                <m:ObjectAttribute text="Focussed on  Migration of Jersey from neo to cloud foundry"/>
+                                <m:ObjectAttribute text="Gained expertise in using Liqibase for DataBase migrations"/>   
+                                 <m:ObjectAttribute text="Focussed on Scalability and Reliability"/> 
+                            </m:ObjectListItem>
+                            <m:ObjectListItem
+                            title="Zumen India Pvt Ltd, Chennai"
+                            type="Inactive"
+                            number="May 2022 - May 2023"
+                            numberUnit="Chennai, India">
+                            <m:ObjectAttribute text="Focussed on Developing the Zumen Integration Platform using Java  Spring Boot on AWS "/>
+                            <m:ObjectAttribute text="React JS based frontend development for Zumen Integration Platform"/>
+                            <m:ObjectAttribute text="Ensuring Zumen Integration Platform connects to various ERP's, PLM's, and Payment Systems" />
+                            <m:ObjectAttribute text="Zumen Integration platform uses MongoDB as Database"/> 
+                            <m:ObjectAttribute text="Focussed on Scalability and Reliability"/> 
+                        </m:ObjectListItem>
+                        <m:ObjectListItem
+                        title="SAP Labs India, Bengaluru"
+                        type="Inactive"
+                        number="June 2017 - June 2022"
+                        numberUnit="Bengaluru, India">
+                        <m:ObjectAttribute text="Focussed on Developing the Zumen Integration Platform using Java  Spring Boot on AWS "/>
+                        <m:ObjectAttribute text="React JS based frontend development for Zumen Integration Platform"/>
+                        <m:ObjectAttribute text="Ensuring Zumen Integration Platform connects to various ERP's, PLM's, and Payment Systems" />
+                        <m:ObjectAttribute text="Zumen Integration platform uses MongoDB as Database"/> 
+                        <m:ObjectAttribute text="Focussed on Scalability and Reliability"/> 
+                    </m:ObjectListItem>
+                    <m:ObjectListItem
+                    title="TCS Ltd, Chennai"
+                    type="Inactive"
+                    number="November 2014 - May 2017"
+                    numberUnit="Chennai, India">
+                    <m:ObjectAttribute text="Focussed on Developing the Zumen Integration Platform using Java  Spring Boot on AWS "/>
+                    <m:ObjectAttribute text="React JS based frontend development for Zumen Integration Platform"/>
+                    <m:ObjectAttribute text="Ensuring Zumen Integration Platform connects to various ERP's, PLM's, and Payment Systems" />
+                    <m:ObjectAttribute text="Zumen Integration platform uses MongoDB as Database"/> 
+                    <m:ObjectAttribute text="Focussed on Scalability and Reliability"/> 
+                </m:ObjectListItem>
+                        </m:List>
                             </blocks>
                         </ObjectPageSubSection>
                     </subSections>
