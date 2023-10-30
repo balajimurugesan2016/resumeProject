@@ -142,21 +142,21 @@
                         type="Inactive"
                         number="June 2017 - June 2022"
                         numberUnit="Bengaluru, India">
-                        <m:ObjectAttribute text="Focussed on Developing the Zumen Integration Platform using Java  Spring Boot on AWS "/>
-                        <m:ObjectAttribute text="React JS based frontend development for Zumen Integration Platform"/>
-                        <m:ObjectAttribute text="Ensuring Zumen Integration Platform connects to various ERP's, PLM's, and Payment Systems" />
-                        <m:ObjectAttribute text="Zumen Integration platform uses MongoDB as Database"/> 
-                        <m:ObjectAttribute text="Focussed on Scalability and Reliability"/> 
+                        <m:ObjectAttribute text="Developed ODATA services with BOPF framework on S4HANA onPremise and cloud. Consumed ODATA services into UI5 applications"/>
+                        <m:ObjectAttribute text="Developed Enterprise product design suite applications with CAP Framework in Java, Deployed on BTP AWS" />
+                        <m:ObjectAttribute text="Developed Risk management application with CAP Framework in Java, Deployed on BTP Kyma"/> 
+                        <m:ObjectAttribute text="Developed a Spring boot application for SAP Product cart, deployed on BTP"/> 
+                        <m:ObjectAttribute text="Established integration between S4HANA, SuccessFactors and other systems with SAP BTP and SAP Cloud Connectors"/> 
                     </m:ObjectListItem>
                     <m:ObjectListItem
                     title="TCS Ltd, Chennai"
                     type="Inactive"
                     number="November 2014 - May 2017"
                     numberUnit="Chennai, India">
-                    <m:ObjectAttribute text="Focussed on Developing the Zumen Integration Platform using Java  Spring Boot on AWS "/>
-                    <m:ObjectAttribute text="React JS based frontend development for Zumen Integration Platform"/>
-                    <m:ObjectAttribute text="Ensuring Zumen Integration Platform connects to various ERP's, PLM's, and Payment Systems" />
-                    <m:ObjectAttribute text="Zumen Integration platform uses MongoDB as Database"/> 
+                    <m:ObjectAttribute text="Established integration between S4HANA, and Neo with Cloud connector"/>
+                    <m:ObjectAttribute text="Focussed on freestyle UI5 development"/>
+                    <m:ObjectAttribute text="Building retail solutions for Marks and Spencer UK, Microsoft USA" />
+                    <m:ObjectAttribute text="ODATA Services development and deployment with SAP ERP"/> 
                     <m:ObjectAttribute text="Focussed on Scalability and Reliability"/> 
                 </m:ObjectListItem>
                         </m:List>
@@ -168,7 +168,30 @@
                         <subSections>
                             <ObjectPageSubSection id="goalsSS4" titleUppercase="false">
                                 <blocks>
-                                    <m:Text text="I am a Senior SAP BTP Full Stack Developer and Architect with 10+ years of experience in SAP ABAP, SAP UI5, SAP Fiori, SAP Cloud Platform, SAP Cloud Application Programming Model, SAP HANA, SAP BTP, SAP Cloud Integration, SAP Cloud Workflow, SAP Cloud Analytics, SAP Cloud Portal, SAP Cloud Identity, SAP Cloud Security, SAP Cloud Build, SAP Cloud Deploy, SAP Cloud Transport Management, SAP Cloud Application Lifecycle Management, SAP Cloud Monitoring, SAP Cloud Logging, SAP Cloud Alerting, SAP Cloud Service Level Agreement, SAP Cloud Service Level Objective, SAP Cloud Service Level Indicator, SAP Cloud Service Level Agreement Management, SAP Cloud Service Level Objective Management, SAP Cloud Service Level Indicator Management, SAP Cloud Service Level Agreement Monitoring, SAP Cloud Service Level Objective Monitoring, SAP Cloud Service Level Indicator Monitoring, SAP Cloud Service Level Agreement Alerting, SAP Cloud Service Level Objective Alerting, SAP Cloud Service Level Indicator Alerting"/>
+                                <m:List>
+                                    <m:ObjectListItem
+                                    title="UDI platform development for p36 GmbH"
+                                    type="Inactive"
+                                    number="Java Spring Boot, UI5, Docker, Cloud Foundry,Neo, AWS"
+                                    numberUnit="Bad Hersfeld, Deutschland">      
+                                    <m:ObjectAttribute text="Integration between SAP BTP and S4HANA with SAP CPI and Cloud Connectors"/>
+                                    <m:ObjectAttribute text="Created middlewares connecting to FDA, EUDAMED and others in Spring boot on AWS"/>
+                                    <m:ObjectAttribute text="Securing the middlewares with Spring Security" />
+                                    <m:ObjectAttribute text="Connecting the Middlewares with UDI core Java Jersey app running on SAP BTP"/> 
+                                    <m:ObjectAttribute text="Focussed on Scalability and Reliability"/> 
+                                </m:ObjectListItem>
+                                <m:ObjectListItem
+                                title="Zumen Integration Platform"
+                                type="Inactive"
+                                number="Java Spring Boot, ReactJS, Docker, AWS"
+                                numberUnit="Bad Hersfeld, Deutschland">      
+                                <m:ObjectAttribute text="This project focussed on Creating Spring Boot Services which connects different ERP 
+                                and Payment Systems"/>
+                                <m:ObjectAttribute text="Every system needs a spring boot adapter running as a distributed system"/>
+                                <m:ObjectAttribute text="All the developed adapters connect to Zumen Procure to pay application on on side and the ERPs on the other side"/> 
+                                <m:ObjectAttribute text="Focussed on Scalability and Reliability"/> 
+                            </m:ObjectListItem>
+                            </m:List>
                                 </blocks>
                             </ObjectPageSubSection>
                         </subSections>
